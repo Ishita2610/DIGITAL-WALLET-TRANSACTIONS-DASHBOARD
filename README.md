@@ -7,7 +7,8 @@ This dataset simulates transactions from a digital wallet platform similar to po
 ![image](https://github.com/user-attachments/assets/cbfc01f2-5e0c-4859-8229-39bffb666160)
 
 
-![image](https://github.com/user-attachments/assets/86d4242c-4b9f-478c-b516-6979440a6d55)
+![image](https://github.com/user-attachments/assets/35105f44-89df-4b62-a82e-08577ba52242)
+
 
 
 
